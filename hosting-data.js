@@ -9,7 +9,7 @@ const hostingData = [
         "SSD VPS Hosting 99.9% Uptime",
         "Free Cpanel & SSL In All Plans",
         "Up To 192 GB RAM & 32 CPU Cores", 
-        "45 Days Moneyback Guarantee"
+        "450 Days Moneyback Guarantee"
       ],
       specs: {
         space: "15 GB – 640 GB",
