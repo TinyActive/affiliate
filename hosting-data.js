@@ -1,6 +1,6 @@
 const hostingData = [
     {
-      name: "Cloud Art",
+      name: "Cloud ArtM",
       logo: "hostingPlanLogo1.png",
       rating: 5,
       reviews: 2,
